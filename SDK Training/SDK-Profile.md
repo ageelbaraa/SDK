@@ -416,125 +416,9 @@ Advanced PowerPoint
 Advanced Access
 ```
 ```
-1
-```
-```
-1
-```
-```
-1
-```
-```
-8
-```
-```
-1
-```
-```
-5
-```
-```
-5
-```
-```
-5
-```
-```
-12
-```
-```
-5
-```
-```
-6
-```
-```
-6
-```
-```
-13
-```
-```
-7
-```
-```
-8
-```
-```
-7
-```
-```
-14
-```
-```
-2
-```
-```
-2
-```
-```
-2
-```
-```
-9
-```
-```
-2
-```
-```
-3
-```
-```
-3
-```
-```
-3
-```
-```
-10
-```
-```
-3
-```
-```
-4
-```
-```
-4
-```
-```
-4
-```
-```
-11
-```
-```
-4
-```
-###### 1
-
-###### 3
-
-###### 2
-
-###### 4
-
-
-(^15) الملف الشخصي 14
-SDK PROFILE
-SDK PROFILE
-
 ##### قسم التصميم الاحترافي Professional Design Department
 
 ويشمل:
-
-### 3
-
-###### 1
-
-###### 2
-
-###### 2
 
 ```
 تصميم جرافيكي
@@ -575,54 +459,12 @@ AutoCAD
 3D - MAX
 ```
 ```
-1
-```
-```
-1
-```
-```
-1
-```
-```
-1
-```
-```
-2
-```
-```
-2
-```
-```
-2
-```
-```
-2
-```
-```
-3 3
-```
-###### 1
-
-
-(^17) الملف الشخصي 16
-SDK PROFILE
-SDK PROFILE
 
 ##### قسم المهارات الإدارية والمالية
 
 ##### Finance & Administrative Department
 
 :The Department includes three sub- majorsيشمل القسم ثلاث مجالات
-
-### 4
-
-###### 3 2 1
-
-###### 3
-
-###### 2
-
-###### 1
 
 ```
 دورات مهارات الأعمال
@@ -664,72 +506,12 @@ Personal skillsمهارات الأشخاص.
 إدارة الوقت. Time management
 ```
 ```
-1
-```
-```
-1
-```
-```
-1
-```
-```
-8
-```
-```
-5
-6
-7
-```
-```
-2
-```
-```
-2
-```
-```
-2
-```
-```
-9
-```
-```
-3
-```
-```
-3
-```
-```
-3
-```
-```
-4
-```
-
-(^19) الملف الشخصي 18
-SDK PROFILE
-SDK PROFILE
 **الاعتمادات
 Accreditation partners**
 
 ##### قسم الدبلومات ومزاولات العمل
 
 ##### Diplomas and apprenticeships
-
-### 5
-
-###### 1
-
-###### 5
-
-###### 2
-
-###### 6
-
-###### 3
-
-###### 7
-
-###### 3
 
 ```
 دبلوم التغذية والحميات:
@@ -773,13 +555,6 @@ Diploma in Teacher training
 الشراكات والعملاء
 Clients & partnerships
 ```
-1
-
-2
-
-```
-4
-3
 ```
 ```
 مبادرات و دعومات
@@ -791,9 +566,6 @@ Developmental
 solutions
 ```
 
-(^21) الملف الشخصي 20
-SDK PROFILE
-SDK PROFILE
 **)2014 - 2006تدريب معلمي وطلاب المدارس على برمجة وتصميم الرجل الآلي. (**
 Training schoolteachers on the design and programing of robots )20062014-(.
 **تدريب الآلاف الطلاب سنوياً من مختلف الجامعات الخاصة والحكومية في محافظات الشمال
@@ -837,30 +609,6 @@ in other parts of the world.
 
 ##### :solutions
 
-## 01
-
-## 06
-
-## 07
-
-## 08
-
-## 09
-
-## 10
-
-## 02
-
-## 03
-
-## 04
-
-## 05
-
-
-(^23) الملف الشخصي 22
-SDK PROFILE
-SDK PROFILE
 **لمجموعة من الامتحانات الدولية.PEARSON VUEادخال اعتمادات قوية كــ**
 Making partnerships with world-recognized names such as PEARSON VUE to accredit a
 number of international standardized tests.
@@ -903,28 +651,6 @@ IT in local universities
 
 ##### :sponsorships
 
-## 01
-
-## 01
-
-## 02
-
-## 03
-
-## 04
-
-## 05
-
-## 02
-
-## 03
-
-## 04
-
-
-(^25) الملف الشخصي 24
-SDK PROFILE
-SDK PROFILE
 **إقامة العديد من الشراكات مع مجموعة جهات لها ثقل أكاديمي محلي ودولي كــــ:**
 Establishing strategic partnerships with a number of academic entities
 with a local and internationally recognized reputations such as:
