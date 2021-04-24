@@ -1,10 +1,8 @@
 #### SDK PROFILE
 
 
-(^03) الملف الشخصي 02
+الملف الشخصي 
 SDK PROFILE
-SDK PROFILE
-
 ##### نبذة عن الشركة:
 
 ```
@@ -44,7 +42,7 @@ parties which enabled them from fulfilling their developmental targets.
 
 (^05) الملف الشخصي 04
 SDK PROFILE
-SDK PROFILE
+
 
 ##### رؤيتنا:
 
@@ -95,7 +93,6 @@ Creative solutions
 ```
 
 (^07) الملف الشخصي 06
-SDK PROFILE
 SDK PROFILE
 
 ##### ماذا نقدم:
@@ -154,7 +151,6 @@ c( Digital marketing & marketing solutions.
 ```
 
 (^09) الملف الشخصي 08
-SDK PROFILE
 SDK PROFILE
 **قسم**
 
@@ -230,7 +226,6 @@ Department of
 
 
 (^11) الملف الشخصي 10
-SDK PROFILE
 SDK PROFILE
 المسار العام
 General Track
@@ -322,7 +317,6 @@ English for Business Track
 
 
 (^13) الملف الشخصي 12
-SDK PROFILE
 SDK PROFILE
 
 ##### قسم تكنولوجيا المعلومات (IT)
@@ -674,12 +668,6 @@ Attracting very distinguished
 
 (^27) الملف الشخصي 26
 SDK PROFILE
-SDK PROFILE
-
-
-```
-SDK PROFILE
-```
 ```
 To contact us:
 ```
